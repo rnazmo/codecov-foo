@@ -1,4 +1,4 @@
-# Sandbox for codecov
+# 2021-06-23-codecov-with-golang-and-public-repo-2
 
 This is sandbox for golang + github actions + codecov + github public repository.
 
