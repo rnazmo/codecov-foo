@@ -4,7 +4,7 @@ This is sandbox for golang + github actions + codecov + github private repositor
 
 ## Badge
 
-[![codecov](https://codecov.io/gh/rnazmo/sandbox__codecov/branch/master/graph/badge.svg?token=JG6NEAB1XO)](https://codecov.io/gh/rnazmo/sandbox__codecov)
+[![codecov](https://codecov.io/gh/rnazmo/codecov-foo/branch/master/graph/badge.svg?token=4Czh2WyGIq)](https://codecov.io/gh/rnazmo/codecov-foo)
 
 ## Ref
 
