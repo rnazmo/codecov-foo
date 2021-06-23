@@ -1,6 +1,6 @@
 # Sandbox for codecov
 
-This is sandbox for golang + github actions + codecov + github private repository.
+This is sandbox for golang + github actions + codecov + github public repository.
 
 ## Badge
 
